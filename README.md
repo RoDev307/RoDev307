@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoDev307
 - 👀 I’m interested in C#, C++, MySQL and videogames!
-- 🌱 I’m currently re-learning C#
+- 🌱 I’m currently learning Python 🐍
 - 📫 How to reach me, Email: <rodrigoavelar307@gmail.com>
 
 <!---
